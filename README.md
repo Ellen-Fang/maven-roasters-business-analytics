@@ -174,14 +174,14 @@ For detailed methodology, analysis, charts, database design, and results:
 
 `Business Analytics` · `Data Analysis` · `Excel` · `PivotTables` · `What-If Analysis` · `Solver Optimization` · `Microsoft Access` · `Database Design` · `Decision Support` · `Data Visualization`
 
-📁 Project Files
+## 📁 Project Files
 
 Due to GitHub's file size limitations, the complete Excel and Microsoft Access files are hosted separately on Google Drive.
 
 The folder includes:
 
-Excel analysis workbook
-Microsoft Access database
-Supporting project files
+- Excel analysis workbook
+- Microsoft Access database
+- Supporting project files
 
-👉 View Maven Roasters Project Files on Google Drive
+👉 [View Maven Roasters Project Files on Google Drive](https://drive.google.com/drive/folders/1sXJdP8QGOEB91VV0bqCbVzMS24S50f_f?usp=drive_link)
