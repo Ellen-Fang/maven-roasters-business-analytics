@@ -174,9 +174,14 @@ For detailed methodology, analysis, charts, database design, and results:
 
 `Business Analytics` · `Data Analysis` · `Excel` · `PivotTables` · `What-If Analysis` · `Solver Optimization` · `Microsoft Access` · `Database Design` · `Decision Support` · `Data Visualization`
 
-## 👤 Author
+📁 Project Files
 
-**Ellen Fang**
+Due to GitHub's file size limitations, the complete Excel and Microsoft Access files are hosted separately on Google Drive.
 
-Business Analytics Project
-National Chengchi University
+The folder includes:
+
+Excel analysis workbook
+Microsoft Access database
+Supporting project files
+
+👉 [View Maven Roasters Project Files on Google Drive](url)
